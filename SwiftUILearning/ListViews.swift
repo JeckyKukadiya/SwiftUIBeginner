@@ -23,10 +23,17 @@ struct ListViews: View {
                     }
                     .onDelete(perform: dele)
                     .onMove(perform: mov)
+                    //.listRowBackground(Color.blue)
                 }
                     header: {
                         Text("Fruits")
+                            .font(.headline)
+                            .foregroundColor(.orange)
+                        Image(systemName: "flame.fill")
+                            .font(.headline)
+                            .foregroundColor(.orange)
                     }
+                    
                 Section(isExpanded: $isVeggies) {
                     ForEach(veggies, id: \.self) { veg in
                         Text(veg.capitalized)
