@@ -26,6 +26,17 @@
 		5D26E6702C83381800C1F99B /* Documentation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D26E66F2C83381800C1F99B /* Documentation.swift */; };
 		5D26E6722C833F6A00C1F99B /* Appearance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D26E6712C833F6A00C1F99B /* Appearance.swift */; };
 		5D26E6742C8346C800C1F99B /* Ifletguard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D26E6732C8346C800C1F99B /* Ifletguard.swift */; };
+		5D3748A52C86C7E700F314BB /* ButtonStyles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D3748A42C86C7E700F314BB /* ButtonStyles.swift */; };
+		5D3748A72C86CA7400F314BB /* SwipingAction.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D3748A62C86CA7400F314BB /* SwipingAction.swift */; };
+		5D3748A92C86CCD300F314BB /* Badges.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D3748A82C86CCD300F314BB /* Badges.swift */; };
+		5D3748AB2C86D0F700F314BB /* Focused.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D3748AA2C86D0F700F314BB /* Focused.swift */; };
+		5D3748AD2C86E2A500F314BB /* SubmitModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D3748AC2C86E2A500F314BB /* SubmitModifier.swift */; };
+		5D3748AF2C86E45800F314BB /* NavStacks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D3748AE2C86E45800F314BB /* NavStacks.swift */; };
+		5D3748B12C86F33B00F314BB /* NavToolBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D3748B02C86F33B00F314BB /* NavToolBar.swift */; };
+		5D3748B32C8700A300F314BB /* SheetResizable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D3748B22C8700A300F314BB /* SheetResizable.swift */; };
+		5D3748B52C87052A00F314BB /* safeAreaInsets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D3748B42C87052A00F314BB /* safeAreaInsets.swift */; };
+		5D3748B72C8725B900F314BB /* Groups.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D3748B62C8725B900F314BB /* Groups.swift */; };
+		5D3748B92C87392A00F314BB /* AnimationUpdated.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D3748B82C87392A00F314BB /* AnimationUpdated.swift */; };
 		5D3B3FD92C74A8F500ED88A3 /* Images.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D3B3FD82C74A8F500ED88A3 /* Images.swift */; };
 		5D3B3FDB2C74AC8C00ED88A3 /* Frames.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D3B3FDA2C74AC8C00ED88A3 /* Frames.swift */; };
 		5D3B3FDD2C74B05100ED88A3 /* BackgroundAndOverlay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D3B3FDC2C74B05100ED88A3 /* BackgroundAndOverlay.swift */; };
@@ -90,6 +101,17 @@
 		5D26E66F2C83381800C1F99B /* Documentation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Documentation.swift; sourceTree = "<group>"; };
 		5D26E6712C833F6A00C1F99B /* Appearance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Appearance.swift; sourceTree = "<group>"; };
 		5D26E6732C8346C800C1F99B /* Ifletguard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ifletguard.swift; sourceTree = "<group>"; };
+		5D3748A42C86C7E700F314BB /* ButtonStyles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStyles.swift; sourceTree = "<group>"; };
+		5D3748A62C86CA7400F314BB /* SwipingAction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwipingAction.swift; sourceTree = "<group>"; };
+		5D3748A82C86CCD300F314BB /* Badges.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Badges.swift; sourceTree = "<group>"; };
+		5D3748AA2C86D0F700F314BB /* Focused.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Focused.swift; sourceTree = "<group>"; };
+		5D3748AC2C86E2A500F314BB /* SubmitModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubmitModifier.swift; sourceTree = "<group>"; };
+		5D3748AE2C86E45800F314BB /* NavStacks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavStacks.swift; sourceTree = "<group>"; };
+		5D3748B02C86F33B00F314BB /* NavToolBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavToolBar.swift; sourceTree = "<group>"; };
+		5D3748B22C8700A300F314BB /* SheetResizable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetResizable.swift; sourceTree = "<group>"; };
+		5D3748B42C87052A00F314BB /* safeAreaInsets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = safeAreaInsets.swift; sourceTree = "<group>"; };
+		5D3748B62C8725B900F314BB /* Groups.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Groups.swift; sourceTree = "<group>"; };
+		5D3748B82C87392A00F314BB /* AnimationUpdated.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationUpdated.swift; sourceTree = "<group>"; };
 		5D3B3FD82C74A8F500ED88A3 /* Images.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Images.swift; sourceTree = "<group>"; };
 		5D3B3FDA2C74AC8C00ED88A3 /* Frames.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Frames.swift; sourceTree = "<group>"; };
 		5D3B3FDC2C74B05100ED88A3 /* BackgroundAndOverlay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlay.swift; sourceTree = "<group>"; };
@@ -222,6 +244,17 @@
 				5D9FC8C32C85E4C60051184D /* AsyncImageBootcamp.swift */,
 				5D9FC8C52C85EA070051184D /* BackgroundMaterial.swift */,
 				5D9FC8C72C85EC990051184D /* TextSelection.swift */,
+				5D3748A42C86C7E700F314BB /* ButtonStyles.swift */,
+				5D3748A62C86CA7400F314BB /* SwipingAction.swift */,
+				5D3748A82C86CCD300F314BB /* Badges.swift */,
+				5D3748AA2C86D0F700F314BB /* Focused.swift */,
+				5D3748AC2C86E2A500F314BB /* SubmitModifier.swift */,
+				5D3748AE2C86E45800F314BB /* NavStacks.swift */,
+				5D3748B02C86F33B00F314BB /* NavToolBar.swift */,
+				5D3748B22C8700A300F314BB /* SheetResizable.swift */,
+				5D3748B42C87052A00F314BB /* safeAreaInsets.swift */,
+				5D3748B62C8725B900F314BB /* Groups.swift */,
+				5D3748B82C87392A00F314BB /* AnimationUpdated.swift */,
 				5D9F7DAE2C6F645C007E1322 /* Assets.xcassets */,
 				5D9F7DB02C6F645C007E1322 /* Preview Content */,
 			);
@@ -325,20 +358,26 @@
 				5D9F7DBD2C6F6D50007E1322 /* ShapesBootCamp.swift in Sources */,
 				5DCC3BA42C761DFB00BE3BED /* Ternary.swift in Sources */,
 				5D3B3FDF2C74B7F200ED88A3 /* Stacks.swift in Sources */,
+				5D3748B52C87052A00F314BB /* safeAreaInsets.swift in Sources */,
 				5D9F7DAD2C6F645B007E1322 /* ContentView.swift in Sources */,
 				5D9F7DAB2C6F645B007E1322 /* SwiftUILearningApp.swift in Sources */,
+				5D3748A92C86CCD300F314BB /* Badges.swift in Sources */,
 				5D545DEF2C75ACF700EF6C6D /* ScrollViews.swift in Sources */,
 				5D3B3FDD2C74B05100ED88A3 /* BackgroundAndOverlay.swift in Sources */,
+				5D3748A52C86C7E700F314BB /* ButtonStyles.swift in Sources */,
 				5D5C08C02C85946A0027DD64 /* Gestures.swift in Sources */,
 				5DCC3BA02C75F1FB00BE3BED /* BindingProperty.swift in Sources */,
 				5D26E65C2C82EB3100C1F99B /* TextFileds.swift in Sources */,
+				5D3748AD2C86E2A500F314BB /* SubmitModifier.swift in Sources */,
 				5D9FC8C42C85E4C60051184D /* AsyncImageBootcamp.swift in Sources */,
 				5D9FC8BB2C85B46D0051184D /* Storage.swift in Sources */,
 				5D545DF32C75BF1400EF6C6D /* SafeAreaBootcamp.swift in Sources */,
+				5D3748B72C8725B900F314BB /* Groups.swift in Sources */,
 				5D9F7DC12C6F7807007E1322 /* GradientBootCamp.swift in Sources */,
 				5D26E6662C830FF800C1F99B /* DatePickers.swift in Sources */,
 				5D4FC4812C784AC80031F866 /* Sheets.swift in Sources */,
 				5D9FC8C62C85EA070051184D /* BackgroundMaterial.swift in Sources */,
+				5D3748B92C87392A00F314BB /* AnimationUpdated.swift in Sources */,
 				5D26E6702C83381800C1F99B /* Documentation.swift in Sources */,
 				5DCC3B9C2C75ED5900BE3BED /* ExtractedFunctions.swift in Sources */,
 				5D9FC8BE2C85BFEA0051184D /* IntroView.swift in Sources */,
@@ -351,15 +390,20 @@
 				5D4FC4852C7855F40031F866 /* NavigationViews.swift in Sources */,
 				5D26E65E2C82F37300C1F99B /* TextEditors.swift in Sources */,
 				5D26E66E2C8321FB00C1F99B /* DarkModeConcept.swift in Sources */,
+				5D3748A72C86CA7400F314BB /* SwipingAction.swift in Sources */,
 				5D9F7DB92C6F68FA007E1322 /* TextBootCamp.swift in Sources */,
 				5D4FC4872C785D7D0031F866 /* ListViews.swift in Sources */,
+				5D3748B12C86F33B00F314BB /* NavToolBar.swift in Sources */,
 				5D9FC8C82C85EC990051184D /* TextSelection.swift in Sources */,
 				5D26E6582C82E30A00C1F99B /* ActionsSheets.swift in Sources */,
 				5D545DED2C75AA0600EF6C6D /* LoopStatement.swift in Sources */,
+				5D3748AF2C86E45800F314BB /* NavStacks.swift in Sources */,
 				5D1E586B2C7707EC008B493C /* Transitions.swift in Sources */,
+				5D3748AB2C86D0F700F314BB /* Focused.swift in Sources */,
 				5D9F7DC32C6F7AAD007E1322 /* IconBootCamp.swift in Sources */,
 				5D26E6742C8346C800C1F99B /* Ifletguard.swift in Sources */,
 				5D9FC8C22C85DC8C0051184D /* ProfileView.swift in Sources */,
+				5D3748B32C8700A300F314BB /* SheetResizable.swift in Sources */,
 				5D26E6642C830E7300C1F99B /* ColorPickers.swift in Sources */,
 				5D1E58692C770462008B493C /* AnimationTiming.swift in Sources */,
 				5D9FC8B92C85AD1B0051184D /* EnvironmentObjectBootCamp.swift in Sources */,
